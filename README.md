@@ -1,2 +1,12 @@
 # Experimental Study: the Effect of the Type of Wind Turbine on Power Output of Wing-Integrated Wind Turbines and their Application Feasibility
-This repository contains all my research on different types of wind turbines to integrate into a plane wing and how that affects power output of the turbine itself. It does not look at aerodynamic efficiency, effect on normal airplane mechanics, or where on the back of the wing the turbines should be placed (this comes is in one of my other studies). 
+
+# Overview
+This repository documents experimental and analytical work comparing different wind turbine concepts for integration into aircraft wings. The focus is on turbine type, geometry, and mounting configuration, and their impacts on power output and practical feasibility for electric aviation.
+
+# Objectives
+- Compare multiple turbine types in wing-mounted contexts and quantify power output under representative flow conditions.
+- Assess feasibility factors including structural integration, weight penalties, and maintenance considerations.
+- Provide reproducible test procedures and datasets for the community.
+
+# Contributing
+If you want to contribute designs, data, or analysis improvements, please open an issue describing your change and the data or files you will add.
